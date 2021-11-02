@@ -1,0 +1,1 @@
+g++ -o "/root/projects/Server8.13/bin/x64/Debug/Server8.13.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/Server8.13/obj/x64/Debug/main.o
